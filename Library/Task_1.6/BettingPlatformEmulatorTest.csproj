@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BettingPlatformEmulatorTest</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Task_1.5\Task_1.5.csproj" />
+    <ProjectReference Include="..\Task_2.1\Task_2.1.csproj" />
+    <ProjectReference Include="..\Task_3.1\Task_3.1.csproj" />
+    <ProjectReference Include="..\Task_3.2\Task_3.2.csproj" />
+  </ItemGroup>
+
+</Project>

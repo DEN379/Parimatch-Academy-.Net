@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Task_3_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Task_1.1\Task_1.1.csproj" />
+    <ProjectReference Include="..\Task_1.2\Task_1.2.csproj" />
+    <ProjectReference Include="..\Task_1.5\Task_1.5.csproj" />
+  </ItemGroup>
+
+</Project>

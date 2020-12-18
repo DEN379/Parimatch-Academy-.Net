@@ -1,0 +1,17 @@
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.1.exe
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.2.exe
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.2.deps.json
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.2.runtimeconfig.json
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.2.runtimeconfig.dev.json
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.2.dll
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.2.pdb
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.1.dll
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\bin\Debug\netcoreapp3.1\Task_1.1.pdb
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\obj\Debug\netcoreapp3.1\Task_1.2.csprojAssemblyReference.cache
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\obj\Debug\netcoreapp3.1\Task_1.2.AssemblyInfoInputs.cache
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\obj\Debug\netcoreapp3.1\Task_1.2.AssemblyInfo.cs
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\obj\Debug\netcoreapp3.1\Task_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\obj\Debug\netcoreapp3.1\Task_1.2.csproj.CopyComplete
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\obj\Debug\netcoreapp3.1\Task_1.2.dll
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\obj\Debug\netcoreapp3.1\Task_1.2.pdb
+C:\Users\Dennis\source\PMAcademy\Library\Task_1.2\obj\Debug\netcoreapp3.1\Task_1.2.genruntimeconfig.cache
