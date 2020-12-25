@@ -44,7 +44,7 @@ namespace Task_3_1
         {
             Console.WriteLine("Enter your card number (16 digits, Mastercard begins with 5, Visa - 4");
             string cardNumber = Console.ReadLine();
-            Console.WriteLine(cardNumber[0]);
+            //Console.WriteLine(cardNumber[0]);
             //if ( (cardNumber[0].Equals('5')) ) throw new InvalidOperationException("Card number"); //(cardNumber.Length != 16) || || (cardNumber[0] != '4')
             Console.WriteLine("Enter your expiry date (format 01/22)");
             string expireDate = Console.ReadLine();

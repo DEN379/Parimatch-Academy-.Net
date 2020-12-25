@@ -1,0 +1,12 @@
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\bin\Debug\netcoreapp3.1\Task_1_4.exe
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\bin\Debug\netcoreapp3.1\Task_1_4.deps.json
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\bin\Debug\netcoreapp3.1\Task_1_4.runtimeconfig.json
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\bin\Debug\netcoreapp3.1\Task_1_4.runtimeconfig.dev.json
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\bin\Debug\netcoreapp3.1\Task_1_4.dll
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\bin\Debug\netcoreapp3.1\Task_1_4.pdb
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\obj\Debug\netcoreapp3.1\Task_1_4.AssemblyInfoInputs.cache
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\obj\Debug\netcoreapp3.1\Task_1_4.AssemblyInfo.cs
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\obj\Debug\netcoreapp3.1\Task_1_4.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\obj\Debug\netcoreapp3.1\Task_1_4.dll
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\obj\Debug\netcoreapp3.1\Task_1_4.pdb
+C:\Users\Dennis\source\PMAcademy\HW-3\Task_1_4\obj\Debug\netcoreapp3.1\Task_1_4.genruntimeconfig.cache
