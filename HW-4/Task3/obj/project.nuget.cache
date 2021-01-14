@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3OgZYyoXKFLV6X8luPIlQH7sm4KtXgmQ04/0TRR6I0R0oD4mx55YzAXWXuWuD4XNy5YfS/vqgGzfPpQSL7yrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dennis\\source\\PMAcademy\\HW-4\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dennis\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\obj\Debug\netcoreapp3.1\Task3.csprojAssemblyReference.cache
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CopyComplete
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\Dennis\source\PMAcademy\HW-4\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache

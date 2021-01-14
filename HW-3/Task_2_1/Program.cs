@@ -197,6 +197,7 @@ namespace Task_2_1
                         k = 0;
                         foreach (var x in remaindersDesc) Console.WriteLine($"#{++k} {x.product}, {x.amount}");
                         break;
+
                     case "5":
                         Console.WriteLine("Enter product id =>");
                         string id = Console.ReadLine().ToLower();
@@ -210,6 +211,7 @@ namespace Task_2_1
                         for (int i = 0; i < report.Count; i++) Console.WriteLine($"#{i + 1} Location: {report[i].location}; Amount: {report[i].amount}");
 
                         break;
+
                     default:
                         Console.WriteLine("You entered wrong number");
                         break;
